@@ -22,6 +22,7 @@ jupyter
 matplotlib
 # Pillow
 scikit-learn
+scikit-image
 
 
 ################################################################
@@ -52,6 +53,6 @@ pandas      # Tutorial #23 on Time-Series Prediction.
 # tensorflow-probability
 
 #cv2
-sklearn
-skimage
+#sklearn
+#skimage
 
