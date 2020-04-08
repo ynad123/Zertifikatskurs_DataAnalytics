@@ -51,7 +51,7 @@ pandas      # Tutorial #23 on Time-Series Prediction.
 # nltk
 # tensorflow-probability
 
-cv2
+#cv2
 sklearn
 skimage
 
