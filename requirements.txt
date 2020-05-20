@@ -56,3 +56,5 @@ pandas      # Tutorial #23 on Time-Series Prediction.
 #sklearn
 #skimage
 
+paho-mqtt
+
